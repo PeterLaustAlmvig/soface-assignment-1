@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/laust/soface/soface-assignment-1/build",
+  "command": "/usr/bin/g++  -I/home/laust/soface/soface-assignment-1/include -g -std=gnu++14 -o CMakeFiles/mylib.dir/src/queue-array.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue-array.cpp",
+  "file": "/home/laust/soface/soface-assignment-1/src/queue-array.cpp"
+},
+{
+  "directory": "/home/laust/soface/soface-assignment-1/build",
+  "command": "/usr/bin/g++  -I/home/laust/soface/soface-assignment-1/include -g -std=gnu++14 -o CMakeFiles/mylib.dir/src/queue-list.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue-list.cpp",
+  "file": "/home/laust/soface/soface-assignment-1/src/queue-list.cpp"
+},
+{
+  "directory": "/home/laust/soface/soface-assignment-1/build",
+  "command": "/usr/bin/g++  -I/home/laust/soface/soface-assignment-1/include -g -g -O0 -std=gnu++14 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/laust/soface/soface-assignment-1/src/main.cpp",
+  "file": "/home/laust/soface/soface-assignment-1/src/main.cpp"
+}
+]

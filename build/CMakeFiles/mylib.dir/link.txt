@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmylib.a "CMakeFiles/mylib.dir/src/queue-array.cpp.o" "CMakeFiles/mylib.dir/src/queue-list.cpp.o"
+/usr/bin/ranlib libmylib.a
