@@ -300,11 +300,19 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "mylib::@6890427a1f51a3e7e1df",
+<<<<<<< HEAD
 <<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-35eee6a1b5e4fd503e4c.json
 					"jsonFile" : "target-mylib-Debug-bfb0bfaee20a9bbebeee.json",
 ========
 					"jsonFile" : "target-mylib-Debug-feb7847c6f374bcdacd4.json",
 >>>>>>>> 8f755c0 (john dillermand):build/.cmake/api/v1/reply/codemodel-v2-ff6da94634ad5adf48dd.json
+=======
+<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-ff6da94634ad5adf48dd.json
+					"jsonFile" : "target-mylib-Debug-feb7847c6f374bcdacd4.json",
+========
+					"jsonFile" : "target-mylib-Debug-bfb0bfaee20a9bbebeee.json",
+>>>>>>>> origin/master:build/.cmake/api/v1/reply/codemodel-v2-35eee6a1b5e4fd503e4c.json
+>>>>>>> 2ef38e94bc918b9a9cc9232754dfc4f09837a644
 					"name" : "mylib",
 					"projectIndex" : 0
 				}
