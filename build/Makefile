@@ -539,6 +539,7 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+<<<<<<< HEAD
 src/queue-array.obj: src/queue-array.cpp.obj
 .PHONY : src/queue-array.obj
 
@@ -546,19 +547,35 @@ src/queue-array.obj: src/queue-array.cpp.obj
 src/queue-array.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\mylib.dir\build.make CMakeFiles/mylib.dir/src/queue-array.cpp.obj
 .PHONY : src/queue-array.cpp.obj
+=======
+src/queue_array.o: src/queue_array.cpp.o
+.PHONY : src/queue_array.o
 
-src/queue-array.i: src/queue-array.cpp.i
-.PHONY : src/queue-array.i
+# target to build an object file
+src/queue_array.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue_array.cpp.o
+.PHONY : src/queue_array.cpp.o
+>>>>>>> 8f755c0 (john dillermand)
+
+src/queue_array.i: src/queue_array.cpp.i
+.PHONY : src/queue_array.i
 
 # target to preprocess a source file
+<<<<<<< HEAD
 src/queue-array.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\mylib.dir\build.make CMakeFiles/mylib.dir/src/queue-array.cpp.i
 .PHONY : src/queue-array.cpp.i
+=======
+src/queue_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue_array.cpp.i
+.PHONY : src/queue_array.cpp.i
+>>>>>>> 8f755c0 (john dillermand)
 
-src/queue-array.s: src/queue-array.cpp.s
-.PHONY : src/queue-array.s
+src/queue_array.s: src/queue_array.cpp.s
+.PHONY : src/queue_array.s
 
 # target to generate assembly for a file
+<<<<<<< HEAD
 src/queue-array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\mylib.dir\build.make CMakeFiles/mylib.dir/src/queue-array.cpp.s
 .PHONY : src/queue-array.cpp.s
@@ -570,19 +587,39 @@ src/queue-list.obj: src/queue-list.cpp.obj
 src/queue-list.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\mylib.dir\build.make CMakeFiles/mylib.dir/src/queue-list.cpp.obj
 .PHONY : src/queue-list.cpp.obj
+=======
+src/queue_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue_array.cpp.s
+.PHONY : src/queue_array.cpp.s
 
-src/queue-list.i: src/queue-list.cpp.i
-.PHONY : src/queue-list.i
+src/queue_list.o: src/queue_list.cpp.o
+.PHONY : src/queue_list.o
+
+# target to build an object file
+src/queue_list.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue_list.cpp.o
+.PHONY : src/queue_list.cpp.o
+>>>>>>> 8f755c0 (john dillermand)
+
+src/queue_list.i: src/queue_list.cpp.i
+.PHONY : src/queue_list.i
 
 # target to preprocess a source file
+<<<<<<< HEAD
 src/queue-list.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\mylib.dir\build.make CMakeFiles/mylib.dir/src/queue-list.cpp.i
 .PHONY : src/queue-list.cpp.i
+=======
+src/queue_list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue_list.cpp.i
+.PHONY : src/queue_list.cpp.i
+>>>>>>> 8f755c0 (john dillermand)
 
-src/queue-list.s: src/queue-list.cpp.s
-.PHONY : src/queue-list.s
+src/queue_list.s: src/queue_list.cpp.s
+.PHONY : src/queue_list.s
 
 # target to generate assembly for a file
+<<<<<<< HEAD
 src/queue-list.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\mylib.dir\build.make CMakeFiles/mylib.dir/src/queue-list.cpp.s
 .PHONY : src/queue-list.cpp.s
@@ -635,6 +672,60 @@ help:
 	@echo ... src/queue-list.obj
 	@echo ... src/queue-list.i
 	@echo ... src/queue-list.s
+=======
+src/queue_list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue_list.cpp.s
+.PHONY : src/queue_list.cpp.s
+
+# Help Target
+help:
+	@echo "The following are some of the valid targets for this Makefile:"
+	@echo "... all (the default if no target is provided)"
+	@echo "... clean"
+	@echo "... depend"
+	@echo "... edit_cache"
+	@echo "... rebuild_cache"
+	@echo "... test"
+	@echo "... Continuous"
+	@echo "... ContinuousBuild"
+	@echo "... ContinuousConfigure"
+	@echo "... ContinuousCoverage"
+	@echo "... ContinuousMemCheck"
+	@echo "... ContinuousStart"
+	@echo "... ContinuousSubmit"
+	@echo "... ContinuousTest"
+	@echo "... ContinuousUpdate"
+	@echo "... Experimental"
+	@echo "... ExperimentalBuild"
+	@echo "... ExperimentalConfigure"
+	@echo "... ExperimentalCoverage"
+	@echo "... ExperimentalMemCheck"
+	@echo "... ExperimentalStart"
+	@echo "... ExperimentalSubmit"
+	@echo "... ExperimentalTest"
+	@echo "... ExperimentalUpdate"
+	@echo "... Nightly"
+	@echo "... NightlyBuild"
+	@echo "... NightlyConfigure"
+	@echo "... NightlyCoverage"
+	@echo "... NightlyMemCheck"
+	@echo "... NightlyMemoryCheck"
+	@echo "... NightlyStart"
+	@echo "... NightlySubmit"
+	@echo "... NightlyTest"
+	@echo "... NightlyUpdate"
+	@echo "... main"
+	@echo "... mylib"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
+	@echo "... src/queue_array.o"
+	@echo "... src/queue_array.i"
+	@echo "... src/queue_array.s"
+	@echo "... src/queue_list.o"
+	@echo "... src/queue_list.i"
+	@echo "... src/queue_list.s"
+>>>>>>> 8f755c0 (john dillermand)
 .PHONY : help
 
 
