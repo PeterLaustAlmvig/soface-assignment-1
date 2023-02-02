@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 /usr/bin/ar qc libmylib.a CMakeFiles/mylib.dir/src/queue_array.cpp.o CMakeFiles/mylib.dir/src/queue_list.cpp.o
 /usr/bin/ranlib libmylib.a
+=======
+C:\MinGW\bin\ar.exe qc libmylib.a "CMakeFiles/mylib.dir/src/queue-array.cpp.obj" "CMakeFiles/mylib.dir/src/queue-list.cpp.obj"
+C:\MinGW\bin\ranlib.exe libmylib.a
+>>>>>>> origin/master
