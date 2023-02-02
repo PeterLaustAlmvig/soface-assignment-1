@@ -69,44 +69,44 @@ include CMakeFiles/mylib.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/mylib.dir/flags.make
 
-CMakeFiles/mylib.dir/src/queue-array.cpp.o: CMakeFiles/mylib.dir/flags.make
-CMakeFiles/mylib.dir/src/queue-array.cpp.o: /home/laust/soface/soface-assignment-1/src/queue-array.cpp
-CMakeFiles/mylib.dir/src/queue-array.cpp.o: CMakeFiles/mylib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laust/soface/soface-assignment-1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mylib.dir/src/queue-array.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mylib.dir/src/queue-array.cpp.o -MF CMakeFiles/mylib.dir/src/queue-array.cpp.o.d -o CMakeFiles/mylib.dir/src/queue-array.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue-array.cpp
+CMakeFiles/mylib.dir/src/queue_array.cpp.o: CMakeFiles/mylib.dir/flags.make
+CMakeFiles/mylib.dir/src/queue_array.cpp.o: /home/laust/soface/soface-assignment-1/src/queue_array.cpp
+CMakeFiles/mylib.dir/src/queue_array.cpp.o: CMakeFiles/mylib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laust/soface/soface-assignment-1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mylib.dir/src/queue_array.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mylib.dir/src/queue_array.cpp.o -MF CMakeFiles/mylib.dir/src/queue_array.cpp.o.d -o CMakeFiles/mylib.dir/src/queue_array.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue_array.cpp
 
-CMakeFiles/mylib.dir/src/queue-array.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mylib.dir/src/queue-array.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/laust/soface/soface-assignment-1/src/queue-array.cpp > CMakeFiles/mylib.dir/src/queue-array.cpp.i
+CMakeFiles/mylib.dir/src/queue_array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mylib.dir/src/queue_array.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/laust/soface/soface-assignment-1/src/queue_array.cpp > CMakeFiles/mylib.dir/src/queue_array.cpp.i
 
-CMakeFiles/mylib.dir/src/queue-array.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mylib.dir/src/queue-array.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/laust/soface/soface-assignment-1/src/queue-array.cpp -o CMakeFiles/mylib.dir/src/queue-array.cpp.s
+CMakeFiles/mylib.dir/src/queue_array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mylib.dir/src/queue_array.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/laust/soface/soface-assignment-1/src/queue_array.cpp -o CMakeFiles/mylib.dir/src/queue_array.cpp.s
 
-CMakeFiles/mylib.dir/src/queue-list.cpp.o: CMakeFiles/mylib.dir/flags.make
-CMakeFiles/mylib.dir/src/queue-list.cpp.o: /home/laust/soface/soface-assignment-1/src/queue-list.cpp
-CMakeFiles/mylib.dir/src/queue-list.cpp.o: CMakeFiles/mylib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laust/soface/soface-assignment-1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/mylib.dir/src/queue-list.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mylib.dir/src/queue-list.cpp.o -MF CMakeFiles/mylib.dir/src/queue-list.cpp.o.d -o CMakeFiles/mylib.dir/src/queue-list.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue-list.cpp
+CMakeFiles/mylib.dir/src/queue_list.cpp.o: CMakeFiles/mylib.dir/flags.make
+CMakeFiles/mylib.dir/src/queue_list.cpp.o: /home/laust/soface/soface-assignment-1/src/queue_list.cpp
+CMakeFiles/mylib.dir/src/queue_list.cpp.o: CMakeFiles/mylib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laust/soface/soface-assignment-1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/mylib.dir/src/queue_list.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mylib.dir/src/queue_list.cpp.o -MF CMakeFiles/mylib.dir/src/queue_list.cpp.o.d -o CMakeFiles/mylib.dir/src/queue_list.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue_list.cpp
 
-CMakeFiles/mylib.dir/src/queue-list.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mylib.dir/src/queue-list.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/laust/soface/soface-assignment-1/src/queue-list.cpp > CMakeFiles/mylib.dir/src/queue-list.cpp.i
+CMakeFiles/mylib.dir/src/queue_list.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mylib.dir/src/queue_list.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/laust/soface/soface-assignment-1/src/queue_list.cpp > CMakeFiles/mylib.dir/src/queue_list.cpp.i
 
-CMakeFiles/mylib.dir/src/queue-list.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mylib.dir/src/queue-list.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/laust/soface/soface-assignment-1/src/queue-list.cpp -o CMakeFiles/mylib.dir/src/queue-list.cpp.s
+CMakeFiles/mylib.dir/src/queue_list.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mylib.dir/src/queue_list.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/laust/soface/soface-assignment-1/src/queue_list.cpp -o CMakeFiles/mylib.dir/src/queue_list.cpp.s
 
 # Object files for target mylib
 mylib_OBJECTS = \
-"CMakeFiles/mylib.dir/src/queue-array.cpp.o" \
-"CMakeFiles/mylib.dir/src/queue-list.cpp.o"
+"CMakeFiles/mylib.dir/src/queue_array.cpp.o" \
+"CMakeFiles/mylib.dir/src/queue_list.cpp.o"
 
 # External object files for target mylib
 mylib_EXTERNAL_OBJECTS =
 
-libmylib.a: CMakeFiles/mylib.dir/src/queue-array.cpp.o
-libmylib.a: CMakeFiles/mylib.dir/src/queue-list.cpp.o
+libmylib.a: CMakeFiles/mylib.dir/src/queue_array.cpp.o
+libmylib.a: CMakeFiles/mylib.dir/src/queue_list.cpp.o
 libmylib.a: CMakeFiles/mylib.dir/build.make
 libmylib.a: CMakeFiles/mylib.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/laust/soface/soface-assignment-1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libmylib.a"

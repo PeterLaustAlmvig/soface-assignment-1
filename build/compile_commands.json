@@ -1,13 +1,13 @@
 [
 {
   "directory": "/home/laust/soface/soface-assignment-1/build",
-  "command": "/usr/bin/g++  -I/home/laust/soface/soface-assignment-1/include -g -std=gnu++14 -o CMakeFiles/mylib.dir/src/queue-array.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue-array.cpp",
-  "file": "/home/laust/soface/soface-assignment-1/src/queue-array.cpp"
+  "command": "/usr/bin/g++  -I/home/laust/soface/soface-assignment-1/include -g -std=gnu++14 -o CMakeFiles/mylib.dir/src/queue_array.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue_array.cpp",
+  "file": "/home/laust/soface/soface-assignment-1/src/queue_array.cpp"
 },
 {
   "directory": "/home/laust/soface/soface-assignment-1/build",
-  "command": "/usr/bin/g++  -I/home/laust/soface/soface-assignment-1/include -g -std=gnu++14 -o CMakeFiles/mylib.dir/src/queue-list.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue-list.cpp",
-  "file": "/home/laust/soface/soface-assignment-1/src/queue-list.cpp"
+  "command": "/usr/bin/g++  -I/home/laust/soface/soface-assignment-1/include -g -std=gnu++14 -o CMakeFiles/mylib.dir/src/queue_list.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue_list.cpp",
+  "file": "/home/laust/soface/soface-assignment-1/src/queue_list.cpp"
 },
 {
   "directory": "/home/laust/soface/soface-assignment-1/build",

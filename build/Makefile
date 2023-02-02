@@ -540,53 +540,53 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
-src/queue-array.o: src/queue-array.cpp.o
-.PHONY : src/queue-array.o
+src/queue_array.o: src/queue_array.cpp.o
+.PHONY : src/queue_array.o
 
 # target to build an object file
-src/queue-array.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue-array.cpp.o
-.PHONY : src/queue-array.cpp.o
+src/queue_array.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue_array.cpp.o
+.PHONY : src/queue_array.cpp.o
 
-src/queue-array.i: src/queue-array.cpp.i
-.PHONY : src/queue-array.i
+src/queue_array.i: src/queue_array.cpp.i
+.PHONY : src/queue_array.i
 
 # target to preprocess a source file
-src/queue-array.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue-array.cpp.i
-.PHONY : src/queue-array.cpp.i
+src/queue_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue_array.cpp.i
+.PHONY : src/queue_array.cpp.i
 
-src/queue-array.s: src/queue-array.cpp.s
-.PHONY : src/queue-array.s
+src/queue_array.s: src/queue_array.cpp.s
+.PHONY : src/queue_array.s
 
 # target to generate assembly for a file
-src/queue-array.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue-array.cpp.s
-.PHONY : src/queue-array.cpp.s
+src/queue_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue_array.cpp.s
+.PHONY : src/queue_array.cpp.s
 
-src/queue-list.o: src/queue-list.cpp.o
-.PHONY : src/queue-list.o
+src/queue_list.o: src/queue_list.cpp.o
+.PHONY : src/queue_list.o
 
 # target to build an object file
-src/queue-list.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue-list.cpp.o
-.PHONY : src/queue-list.cpp.o
+src/queue_list.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue_list.cpp.o
+.PHONY : src/queue_list.cpp.o
 
-src/queue-list.i: src/queue-list.cpp.i
-.PHONY : src/queue-list.i
+src/queue_list.i: src/queue_list.cpp.i
+.PHONY : src/queue_list.i
 
 # target to preprocess a source file
-src/queue-list.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue-list.cpp.i
-.PHONY : src/queue-list.cpp.i
+src/queue_list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue_list.cpp.i
+.PHONY : src/queue_list.cpp.i
 
-src/queue-list.s: src/queue-list.cpp.s
-.PHONY : src/queue-list.s
+src/queue_list.s: src/queue_list.cpp.s
+.PHONY : src/queue_list.s
 
 # target to generate assembly for a file
-src/queue-list.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue-list.cpp.s
-.PHONY : src/queue-list.cpp.s
+src/queue_list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mylib.dir/build.make CMakeFiles/mylib.dir/src/queue_list.cpp.s
+.PHONY : src/queue_list.cpp.s
 
 # Help Target
 help:
@@ -630,12 +630,12 @@ help:
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
-	@echo "... src/queue-array.o"
-	@echo "... src/queue-array.i"
-	@echo "... src/queue-array.s"
-	@echo "... src/queue-list.o"
-	@echo "... src/queue-list.i"
-	@echo "... src/queue-list.s"
+	@echo "... src/queue_array.o"
+	@echo "... src/queue_array.i"
+	@echo "... src/queue_array.s"
+	@echo "... src/queue_list.o"
+	@echo "... src/queue_list.i"
+	@echo "... src/queue_list.s"
 .PHONY : help
 
 
