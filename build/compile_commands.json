@@ -1,8 +1,5 @@
 [
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
   "directory": "/home/laust/soface/soface-assignment-1/build",
   "command": "/usr/bin/g++  -I/home/laust/soface/soface-assignment-1/include -g -std=gnu++14 -o CMakeFiles/mylib.dir/src/queue_array.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue_array.cpp",
   "file": "/home/laust/soface/soface-assignment-1/src/queue_array.cpp"
@@ -11,34 +8,10 @@
   "directory": "/home/laust/soface/soface-assignment-1/build",
   "command": "/usr/bin/g++  -I/home/laust/soface/soface-assignment-1/include -g -std=gnu++14 -o CMakeFiles/mylib.dir/src/queue_list.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue_list.cpp",
   "file": "/home/laust/soface/soface-assignment-1/src/queue_list.cpp"
-=======
->>>>>>> 2ef38e94bc918b9a9cc9232754dfc4f09837a644
-  "directory": "C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\mylib.dir\\src\\queue-array.cpp.obj -c \"C:\\C C++\\2. semester\\Softwarearchietecture\\assignments\\soface-assignment-1\\src\\queue-array.cpp\"",
-  "file": "C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/src/queue-array.cpp"
-},
-{
-  "directory": "C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\mylib.dir\\src\\queue-list.cpp.obj -c \"C:\\C C++\\2. semester\\Softwarearchietecture\\assignments\\soface-assignment-1\\src\\queue-list.cpp\"",
-  "file": "C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/src/queue-list.cpp"
-<<<<<<< HEAD
-=======
-  "directory": "/home/laust/soface/soface-assignment-1/build",
-  "command": "/usr/bin/g++  -I/home/laust/soface/soface-assignment-1/include -g -std=gnu++14 -o CMakeFiles/mylib.dir/src/queue_array.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue_array.cpp",
-  "file": "/home/laust/soface/soface-assignment-1/src/queue_array.cpp"
 },
 {
   "directory": "/home/laust/soface/soface-assignment-1/build",
-  "command": "/usr/bin/g++  -I/home/laust/soface/soface-assignment-1/include -g -std=gnu++14 -o CMakeFiles/mylib.dir/src/queue_list.cpp.o -c /home/laust/soface/soface-assignment-1/src/queue_list.cpp",
-  "file": "/home/laust/soface/soface-assignment-1/src/queue_list.cpp"
->>>>>>> 8f755c0 (john dillermand)
-=======
->>>>>>> origin/master
->>>>>>> 2ef38e94bc918b9a9cc9232754dfc4f09837a644
-},
-{
-  "directory": "C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -g -O0 -std=gnu++14 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"C:\\C C++\\2. semester\\Softwarearchietecture\\assignments\\soface-assignment-1\\src\\main.cpp\"",
-  "file": "C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/src/main.cpp"
+  "command": "/usr/bin/g++  -I/home/laust/soface/soface-assignment-1/include -g -g -O0 -std=gnu++14 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/laust/soface/soface-assignment-1/src/main.cpp",
+  "file": "/home/laust/soface/soface-assignment-1/src/main.cpp"
 }
 ]

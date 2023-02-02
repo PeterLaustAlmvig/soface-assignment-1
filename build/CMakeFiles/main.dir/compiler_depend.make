@@ -180,8 +180,17 @@ CMakeFiles/main.dir/src/main.cpp.o: /home/laust/soface/soface-assignment-1/src/m
   /usr/include/c++/12/bits/basic_ios.tcc \
   /usr/include/c++/12/bits/ostream.tcc \
   /usr/include/c++/12/istream \
-  /usr/include/c++/12/bits/istream.tcc
+  /usr/include/c++/12/bits/istream.tcc \
+  /home/laust/soface/soface-assignment-1/include/queue_array.hpp \
+  /home/laust/soface/soface-assignment-1/include/int_queue.hpp \
+  /usr/include/assert.h
 
+
+/usr/include/assert.h:
+
+/home/laust/soface/soface-assignment-1/include/int_queue.hpp:
+
+/home/laust/soface/soface-assignment-1/include/queue_array.hpp:
 
 /usr/include/c++/12/bits/basic_ios.tcc:
 
