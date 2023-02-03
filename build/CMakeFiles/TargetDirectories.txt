@@ -1,33 +1,33 @@
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/Experimental.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/Nightly.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/Continuous.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/NightlyMemoryCheck.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/NightlyStart.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/NightlyUpdate.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/NightlyConfigure.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/NightlyBuild.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/NightlyTest.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/NightlyCoverage.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/NightlyMemCheck.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/NightlySubmit.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ExperimentalStart.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ExperimentalUpdate.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ExperimentalConfigure.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ExperimentalBuild.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ExperimentalTest.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ExperimentalCoverage.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ExperimentalMemCheck.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ExperimentalSubmit.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ContinuousStart.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ContinuousUpdate.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ContinuousConfigure.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ContinuousBuild.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ContinuousTest.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ContinuousCoverage.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ContinuousMemCheck.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/ContinuousSubmit.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/mylib.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/main.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/test.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/edit_cache.dir
-C:/C C++/2. semester/Softwarearchietecture/assignments/soface-assignment-1/build/CMakeFiles/rebuild_cache.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/Experimental.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/Nightly.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/Continuous.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/NightlyMemoryCheck.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/NightlyStart.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/NightlyUpdate.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/NightlyConfigure.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/NightlyBuild.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/NightlyTest.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/NightlyCoverage.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/NightlyMemCheck.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/NightlySubmit.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ExperimentalStart.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ExperimentalUpdate.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ExperimentalConfigure.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ExperimentalBuild.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ExperimentalTest.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ExperimentalCoverage.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ExperimentalMemCheck.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ExperimentalSubmit.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ContinuousStart.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ContinuousUpdate.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ContinuousConfigure.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ContinuousBuild.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ContinuousTest.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ContinuousCoverage.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ContinuousMemCheck.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/ContinuousSubmit.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/mylib.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/main.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/test.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/edit_cache.dir
+/home/laust/soface/soface-assignment-1/build/CMakeFiles/rebuild_cache.dir
