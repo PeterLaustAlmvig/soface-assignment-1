@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/mylib.dir/src/queue_array.cpp.o"
-  "CMakeFiles/mylib.dir/src/queue_array.cpp.o.d"
-  "CMakeFiles/mylib.dir/src/queue_list.cpp.o"
-  "CMakeFiles/mylib.dir/src/queue_list.cpp.o.d"
+  "CMakeFiles/mylib.dir/src/queue_array.cpp.obj"
+  "CMakeFiles/mylib.dir/src/queue_array.cpp.obj.d"
+  "CMakeFiles/mylib.dir/src/queue_list.cpp.obj"
+  "CMakeFiles/mylib.dir/src/queue_list.cpp.obj.d"
   "libmylib.a"
   "libmylib.pdb"
 )
