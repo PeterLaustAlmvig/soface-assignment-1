@@ -17,6 +17,8 @@ Node* Node::getNext(){
     return next;
 }
 
+Node::~Node(){}
+
 Queue_list::Queue_list(int size){
     max = size;
     front = nullptr;
@@ -29,8 +31,8 @@ void Queue_list::enqueue(int num){
     if(back == nullptr)
     {
         back = &n;
-        front = &n;
         back->setNext(nullptr);
+        front = &n;
     }else{
         back->setNext(&n);
         back = &n;
@@ -39,7 +41,7 @@ void Queue_list::enqueue(int num){
 }
 
 int Queue_list::dequeue(){
-    assert(size <= 0);
+    assert(size > 0);
     int dqd = front->getData();
     size--;
     if(size == 0){

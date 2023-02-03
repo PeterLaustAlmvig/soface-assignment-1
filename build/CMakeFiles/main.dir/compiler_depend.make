@@ -183,6 +183,7 @@ CMakeFiles/main.dir/src/main.cpp.o: /home/laust/soface/soface-assignment-1/src/m
   /usr/include/c++/12/bits/istream.tcc \
   /home/laust/soface/soface-assignment-1/include/queue_array.hpp \
   /home/laust/soface/soface-assignment-1/include/int_queue.hpp \
+  /home/laust/soface/soface-assignment-1/include/queue_list.hpp \
   /usr/include/assert.h
 
 
@@ -369,6 +370,8 @@ CMakeFiles/main.dir/src/main.cpp.o: /home/laust/soface/soface-assignment-1/src/m
 /usr/include/c++/12/bits/istream.tcc:
 
 /usr/include/bits/types/locale_t.h:
+
+/home/laust/soface/soface-assignment-1/include/queue_list.hpp:
 
 /usr/include/c++/12/x86_64-suse-linux/bits/c++config.h:
 

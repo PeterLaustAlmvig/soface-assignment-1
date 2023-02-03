@@ -15,6 +15,7 @@ void Queue_array::enqueue(int num){
 int Queue_array::dequeue(){
     assert(size > 0);
     int dqd = queue[0];
+    //This is a horrible way of doing it but fuck it.
     for(int i = 1; i <= size; i++){
         queue[i - 1] = queue[i];
     }
